@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+LIVE DEMO : https://netflix-clone-df3bf.web.app/
 ## Available Scripts
 
 In the project directory, you can run:
