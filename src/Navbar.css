@@ -1,0 +1,40 @@
+
+
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height:60px;
+    /* padding-top: 10px; */
+    z-index: 1;
+    /* Animation */
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.nav_black{
+    background-color: black;
+
+}
+
+.logo{
+    /* position: fixed; */
+    width: 100px;
+    /* height: 50px; */
+    margin-left:20px ;
+    object-fit: contain;
+
+}
+
+.icon{
+    /* position: fixed; */
+    /* margin-top: 10px; */
+    width: 40px;
+    /* height: 50px; */
+    margin-right: 20px;
+    object-fit: contain;
+
+}
